@@ -7,7 +7,7 @@ on:
         pull_request:
             branches: main
 jobs:
-    build:
+    auto-release:
         runs-on: ubuntu-latest
         strategy:
             matrix:
