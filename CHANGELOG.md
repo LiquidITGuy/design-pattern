@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.0](https://github.com/LiquidITGuy/design-pattern/compare/v1.0.0...v1.1.0) (2023-08-25)
+
+
+### Features
+
+* **singleton:** ajout du singleton compteur ([5871fd0](https://github.com/LiquidITGuy/design-pattern/commit/5871fd08d1936ffaf65a4aa1974c40d08338aea7))
+
+
+### Bug Fixes
+
+* **singleton:** fix du compteur pour prendre en charge le 0 ([8064f0d](https://github.com/LiquidITGuy/design-pattern/commit/8064f0db46e5553ee0971011ce7c57f15d5c9bae))
+
 ## 1.0.0 (2023-08-25)
 
 
