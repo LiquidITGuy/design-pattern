@@ -12,10 +12,14 @@
   },
   "devDependencies": {
     "semantic-release": "^21.1.1",
+    "semantic-release-conventional-commits": "^3.0.0",
     "typescript": "^5.0.2",
     "vite": "^4.4.5"
   },
   "release": {
-    "branches": ["main"]
+    "branches": [
+      "main"
+    ],
+    "analyzeCommits": "semantic-release-conventional-commits"
   }
 }
