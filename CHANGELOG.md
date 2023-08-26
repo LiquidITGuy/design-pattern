@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/LiquidITGuy/design-pattern/compare/v1.1.0...v1.2.0) (2023-08-26)
+
+
+### Features
+
+* **singleton:** ajout d'un autre usage de l'instance compteur ([56f13b7](https://github.com/LiquidITGuy/design-pattern/commit/56f13b753bfb24307959eabdcf13d6160ff6d177))
+
 ## [1.1.0](https://github.com/LiquidITGuy/design-pattern/compare/v1.0.0...v1.1.0) (2023-08-25)
 
 
